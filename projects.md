@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Here's a list of things I've done recently
+Here's a list of things I've been doing recently
 
 * Hacks
   * BrumHack III - we made an LED strip into a stock ticker
