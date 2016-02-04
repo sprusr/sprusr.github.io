@@ -13,4 +13,4 @@ Here's a list of things I've been doing recently
   * HackKings 2.0 - [Standard Internet Relay Chat Messaging Service Zen (SIRCMSZ)](https://github.com/Homletmoo/hk2015)
   * HackCambridge - [this hack literally took an hour](https://github.com/sprusr/negwarn#the-rest-of-the-event-was-mucking-about)
   * More to come!
-* Working contract webdev work in Birmingham
+* Currently working contract webdev work in Birmingham
