@@ -12,5 +12,6 @@ Here's a list of things I've been doing recently
   * GreatUniHack 2015 - [HackKings ticket bot](https://github.com/sprusr/kings-bot#DISCLAIMER---it-doesnt-work)
   * HackKings 2.0 - [Standard Internet Relay Chat Messaging Service Zen (SIRCMSZ)](https://github.com/Homletmoo/hk2015)
   * HackCambridge - [this hack literally took an hour](https://github.com/sprusr/negwarn#the-rest-of-the-event-was-mucking-about)
+  * BanterHack - [KickStopper](#no-link---sadness)
   * More to come!
 * Currently working contract webdev work in Birmingham
