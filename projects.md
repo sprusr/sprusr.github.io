@@ -13,5 +13,6 @@ Here's a list of things I've been doing recently
   * HackKings 2.0 - [Standard Internet Relay Chat Messaging Service Zen (SIRCMSZ)](https://github.com/Homletmoo/hk2015)
   * HackCambridge - [this hack literally took an hour](https://github.com/sprusr/negwarn#the-rest-of-the-event-was-mucking-about)
   * BanterHack - [KickStopper](#no-link---sadness)
+  * Hack@Brookes - ThroneRoom ([client](https://github.com/sprusr/throneroom-site), [server](https://github.com/hgat/throneroom))
   * More to come!
 * Currently working contract webdev work in Birmingham
