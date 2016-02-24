@@ -11,8 +11,8 @@ Here's a list of things I've been doing recently
   * AstonHack 2015 - [OpenTeach](http://devpost.com/software/openteach#more-of-an-idea-than-a-hack)
   * GreatUniHack 2015 - [HackKings ticket bot](https://github.com/sprusr/kings-bot#DISCLAIMER---it-doesnt-work)
   * HackKings 2.0 - [Standard Internet Relay Chat Messaging Service Zen (SIRCMSZ)](https://github.com/Homletmoo/hk2015)
-  * HackCambridge - [this hack literally took an hour](https://github.com/sprusr/negwarn#the-rest-of-the-event-was-mucking-about)
-  * BanterHack - [KickStopper](#no-link---sadness)
+  * HackCambridge - [Negwarn](https://github.com/sprusr/negwarn#the-rest-of-the-event-was-mucking-about), literally took 1h30 to make
+  * BanterHack - KickStopper
   * Hack@Brookes - ThroneRoom ([client](https://github.com/sprusr/throneroom-site), [server](https://github.com/hgat/throneroom))
-  * More to come!
+  * HackUPC - [Confly](https://github.com/sprusr/confly) (got to travel to Barcelona!!)
 * Currently working contract webdev work in Birmingham
