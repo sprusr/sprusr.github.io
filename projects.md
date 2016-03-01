@@ -15,4 +15,5 @@ Here's a list of things I've been doing recently
   * BanterHack - KickStopper
   * Hack@Brookes - ThroneRoom ([client](https://github.com/sprusr/throneroom-site), [server](https://github.com/hgat/throneroom))
   * HackUPC - [Confly](https://github.com/sprusr/confly) (got to travel to Barcelona!!)
+  * HackLondon - [Luncheon](http://devpost.com/software/luncheon), but I wasn't much help!
 * Currently working contract webdev work in Birmingham
