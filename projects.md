@@ -16,4 +16,5 @@ Here's a list of things I've been doing recently
   * Hack@Brookes - ThroneRoom ([client](https://github.com/sprusr/throneroom-site), [server](https://github.com/hgat/throneroom))
   * HackUPC - [Confly](https://github.com/sprusr/confly) (got to travel to Barcelona!!)
   * HackLondon - [Luncheon](http://devpost.com/software/luncheon), but I wasn't much help!
+  * StudentHack IV - [Hello, m68k!](http://devpost.com/software/hello-m68k), "Hello, world!" for Amiga 500
 * Currently working contract webdev work in Birmingham
