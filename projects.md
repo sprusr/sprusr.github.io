@@ -17,4 +17,5 @@ Here's a list of things I've been doing recently
   * HackUPC - [Confly](https://github.com/sprusr/confly) (got to travel to Barcelona!!)
   * HackLondon - [Luncheon](http://devpost.com/software/luncheon), but I wasn't much help!
   * StudentHack IV - [Hello, m68k!](http://devpost.com/software/hello-m68k), "Hello, world!" for Amiga 500
+  * BrumHack 4 - [library-api](https://github.com/BenjaminEHowe/library-api), enjoyed this one a lot!!
 * Currently working contract webdev work in Birmingham
