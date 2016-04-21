@@ -9,8 +9,8 @@ Some stuff about me
 * Javascript is my favourite language ♥
 * I use a Mac and spend most of my time in web browsers, terminals and text editors
 * I listen to a lot of music
-* Since starting uni, I love hackathons
-* I really like cycling but I don't have a bike at the moment :(
+* I love hackathons
+* I really like cycling!
 
 And here's a list of links
 
