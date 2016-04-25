@@ -18,4 +18,5 @@ Here's a list of things I've been doing recently
   * HackLondon - [Luncheon](http://devpost.com/software/luncheon), but I wasn't much help!
   * StudentHack IV - [Hello, m68k!](http://devpost.com/software/hello-m68k), "Hello, world!" for Amiga 500
   * BrumHack 4 - [library-api](https://github.com/BenjaminEHowe/library-api), enjoyed this one a lot!!
+  * HackSussex - [twit-bird](https://github.com/sprusr/twit-bird), bird that flashes
 * Currently working contract webdev work in Birmingham
