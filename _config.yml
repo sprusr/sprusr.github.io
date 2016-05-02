@@ -8,7 +8,7 @@
 # Site settings
 title: sprusr
 description: > # this means to ignore newlines until "baseurl:"
-  super user of the realm of the internet
+  (Scott Street)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://spru.sr" # the base hostname & protocol for your site
 twitter_username: sprusr
