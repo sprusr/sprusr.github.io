@@ -47,3 +47,15 @@ footer {
 .center {
   text-align: center;
 }
+
+.post-content {
+  img {
+    border: 5px solid rgb(194, 194, 194);
+  }
+
+  &::after {
+    clear: both;
+    display: block;
+    content: '';
+  }
+}
