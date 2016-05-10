@@ -7,9 +7,11 @@ permalink: /projects/
 I usually have a few side projects on the go at any one time. My favourite at the moment is the Amiga 500 I bought from eBay - I'm planning on using it to control the RGB LED strip I have. Eventually.
 
 ### Side projects
+
 * [ledctrl]({% post_url 2016-05-09-ledctrl %}) - control the pattern of an LED strip via a webpage
 
 ### Hackathons
+
 * BrumHack III - made an LED stock ticker
 * AstonHack 2015 - [OpenTeach](http://devpost.com/software/openteach#more-of-an-idea-than-a-hack)
 * GreatUniHack 2015 - [HackKings ticket bot](https://github.com/sprusr/kings-bot#DISCLAIMER---it-doesnt-work)

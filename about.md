@@ -10,4 +10,6 @@ Contact me at `scott` at this domain.
 
 ### Links
 
-* [My Last.fm profile](http://www.last.fm/user/scottystreet)
+* [Last.fm](http://www.last.fm/user/scottystreet)
+* [Devpost](http://devpost.com/sprusr)
+* [Medium](https://medium.com/@sprusr)
