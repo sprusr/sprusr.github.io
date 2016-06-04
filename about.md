@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I listen to a crazy amount of music in a day. I go to a lot of hackathons and my favourite language is Javascript. I use a Mac, most of the time for web browsers and text editors. And when I'm not on computers, I love cycling!
+I listen to a lot of music in a day. I go to a lot of hackathons and my favourite language is Javascript. I use a Mac, most of the time for web browsers and text editors. And when I'm not on computers, I like to cycle.
 
 Contact me at `scott` at this domain.
 
