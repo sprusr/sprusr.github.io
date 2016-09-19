@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-I usually have a few side projects on the go at any one time. My favourite at the moment is the Amiga 500 I bought from eBay - I'm planning on using it to control the RGB LED strip I have. Eventually.
+I usually have a few things on the go at any one time.
 
 ### Side projects
 

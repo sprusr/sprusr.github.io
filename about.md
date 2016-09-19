@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I listen to a lot of music in a day. I go to a lot of hackathons and my favourite language is Javascript. I use a Mac, most of the time for web browsers and text editors. And when I'm not on computers, I like to cycle.
+Scott is a computer science student at Aston University. In his first year of study he discovered hackathons in a big way, attending 14 as a fresher, concluding with the Major League Hacking season finale in New Jersey. In his spare time he loves taking things apart, losing the screws, and never being able to put them together again.
 
-Contact me at `scott` at this domain.
+### Contact
+
+If you want to get in touch, the easiest way is to [tweet at me](https://twitter.com/sprusr). If you prefer email, you can send a message to `scott` at this domain.
 
 ### Links
 

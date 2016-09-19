@@ -6,13 +6,14 @@ body {
   }
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font-family;
+}
+
 .container {
-  width: 100%;
-  max-width: $content-width;
-  margin: 20px auto;
+  margin: 20px 0;
   padding: 20px;
   box-sizing: border-box;
-  background-color: $container-background-color;
   margin-top: 20px;
 
   @include media-query($content-width) {
@@ -21,12 +22,10 @@ body {
 }
 
 header {
-  text-align: center;
-  padding-bottom: 80px;
+  padding-bottom: 40px;
 }
 
 .site-title {
-  padding: 1em;
   font-size: 18pt;
 
   h1 {
@@ -40,8 +39,7 @@ header {
 }
 
 footer {
-  text-align: center;
-  padding-top: 80px;
+  padding-top: 40px;
 }
 
 .center {
