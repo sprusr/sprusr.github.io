@@ -28,5 +28,6 @@ I usually have a few things on the go at any one time.
 * AnvilHack - [HowF\******Goldsmiths](https://github.com/HowFuckingGoldsmiths)
 * MLH Prime - [WWWorld](http://devpost.com/software/wwworld-j9047y)
 * HackUPC - [Lockpik](http://devpost.com/software/lockpik) - please read _background_ section
+* HackSheffield - [gatesopen](https://telegram.me/gatesopenbot) - telegram bot to check if ticket barriers at UK stations are open
 
 Please see my [Devpost profile](http://devpost.com/sprusr) for all my hackathon projects.
