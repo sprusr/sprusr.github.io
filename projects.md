@@ -13,6 +13,8 @@ I usually have a few things on the go at any one time.
 
 ### Hackathons
 
+Mostly hackathon projects, but also includes volunteering and organising.
+
 * BrumHack III - made an LED stock ticker with Bloomberg data
 * AstonHack 2015 - [OpenTeach](http://devpost.com/software/openteach#more-of-an-idea-than-a-hack)
 * GreatUniHack 2015 - [HackKings ticket bot](https://github.com/sprusr/kings-bot#DISCLAIMER---it-doesnt-work)
@@ -31,5 +33,6 @@ I usually have a few things on the go at any one time.
 * HackSheffield - [gatesopen](https://telegram.me/gatesopenbot) - telegram bot to check if ticket barriers at UK stations are open
 * Hackference - [GatesAreOpen](https://github.com/sprusr/GatesAreOpen-Bot) - sequel to gatesopen with NLP and ML
 * BrumHack 5 - volunteered and made PRs for hacktoberfest!
+* AstonHack 2016 - first time organising!
 
 Please see my [Devpost profile](http://devpost.com/sprusr) for all my hackathon projects.
