@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<h2>Projects</h2>
+<ul class="projects">
+  {% for project in site.projects %}
+  <li>
+    <a href="{{ project.url }}"><img src="{{ project.image }}" alt=""></a>
+    <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
+    <p>{{ project.description | markdownify }}</p>
+  </li>
+  {% endfor %}
+</ul>
+<h2>Speaking</h2>
+<ul>
+  <li>Hackcon EU - <i>Inside the mind of a fresher</i> (<a href="https://drive.google.com/open?id=1Qr_jcpRnPklwT8k5fbx6CoVugHAFBX8HmdTkq21wj1w">slides</a>)</li>
+</ul>

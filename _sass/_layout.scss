@@ -1,59 +1,121 @@
-body {
-  background-color: $background-color;
+$line-color: rgb(54, 83, 208);
+$link-color: rgb(193, 27, 156);
 
-  @include media-query($content-width) {
-      background-color: $container-background-color;
-  }
+body {
+  font-family: Georgia, serif;
+  font-size: 13pt;
+  -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $heading-font-family;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lighten($link-color, 20);
+  text-decoration: underline;
+}
+
+hr {
+  border-color: $line-color;
 }
 
 .container {
-  margin: 20px 0;
-  padding: 20px;
-  box-sizing: border-box;
-  margin-top: 20px;
-
-  @include media-query($content-width) {
-      margin: 0 auto;
-  }
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 header {
-  padding-bottom: 40px;
+  .site-title {
+    h1 {
+      margin: 0;
+    }
+  }
+
+  nav {
+    ul {
+      padding: 0;
+      list-style: none;
+    }
+
+    li {
+      display: inline;
+
+      &:not(:last-child)::after {
+        content: " / ";
+        display: inline;
+      }
+    }
+  }
 }
 
-.site-title {
-  font-size: 18pt;
+.projects {
+  padding: 0;
+  list-style: none;
 
-  h1 {
+  li {
+    margin-bottom: 20px;
+
+    &::before {
+      content: '';
+      display: table;
+    }
+
+    &::after {
+      content: '';
+      clear: both;
+      display: block;
+    }
+
+    &:not(:last-child) {
+      border-bottom: 1px dashed rgb(204, 204, 204);
+      padding-bottom: 20px;
+    }
+  }
+
+  img {
+    width: 20%;
+    position: relative;
+    float: left;
+    margin-right: 10px;
+  }
+
+  h3 {
     margin: 0;
   }
-
-  a {
-    color: inherit;
-    text-decoration: none;
-  }
 }
 
-footer {
-  padding-top: 40px;
-}
+.posts {
+  padding: 0;
+  list-style: none;
 
-.center {
-  text-align: center;
-}
-
-.post-content {
-  img {
-    border: 5px solid rgb(194, 194, 194);
+  li:not(:last-child) {
+    border-bottom: 1px dashed rgb(204, 204, 204);
+    padding-bottom: 20px;
   }
 
-  &::after {
-    clear: both;
-    display: block;
-    content: '';
+  h2 small {
+    font-size: 1rem;
   }
 }

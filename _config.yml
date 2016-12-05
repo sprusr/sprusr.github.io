@@ -1,19 +1,51 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: sprusr
-description: > # this means to ignore newlines until "baseurl:"
-  (Scott Street)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://spru.sr" # the base hostname & protocol for your site
-twitter_username: sprusr
-github_username:  sprusr
-linkedin_username:  streets
+title: Scott Street - sprusr
+description: >
+  Scott is a javascript wizard who loves the web 💫
+baseurl: ""
+url: "https://spru.sr"
+
+# Content
+links:
+  - title: twitter
+    url: https://twitter.com/sprusr
+  - title: github
+    url: https://github.com/sprusr
+  - title: linkedin
+    url: https://www.linkedin.com/in/streets
+  - title: lastfm
+    url: http://www.last.fm/user/scottystreet
+  - title: devpost
+    url: https://devpost.com/sprusr
+  - title: medium
+    url: https://medium.com/@sprusr/
+  - title: blog
+    url: /blog
+  - title: email
+    url: mailto:scott@spru.sr
+projects:
+  - title: Muki.js
+    description: >
+      I got to play with one of [these cool mugs](http://pauligmuki.com/) at a
+      hackathon. It has an e-ink display, powered by the heat of the liquid
+      inside! Their existing developer libraries were for Android and iOS, so I
+      reverse engineered the mug and implemented their Bluetooth API in
+      javascript!
+    image: /img/muki.png
+    url: https://github.com/sprusr/muki.js
+  - title: vpncmd.js
+    description: >
+      I got interested in setting up and maintaining my own VPN server, and what
+      better way to manage such a thing than with javascript! And because it
+      (pretty much) didn't already exist, I wrote a module for controlling a
+      SoftEther VPN server.
+    image: /img/vpncmd.png
+    url: https://github.com/sprusr/vpncmd.js
+  - title: Don't Laugh
+    description: >
+      A really stupid, and yet incredible hackathon project in the form of a game. A camera and elastic band shooting robot move back and forth - if you laugh or even smile, you get shot!
+    image: /img/dontlaugh.png
+    url: https://devpost.com/software/don-t-laugh
 
 # Build settings
 markdown: kramdown

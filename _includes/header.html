@@ -1,13 +1,14 @@
 <header>
   <div class="site-title">
-    <h1><a href="/">{{ site.title }}</a></h1>
+    <h1>{{ site.title }}</h1>
     <p>{{ site.description }}</p>
   </div>
+  <hr>
   <nav>
-    {% for page in site.pages %}
-      {% if page.title %}
-      <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-      {% endif %}
-    {% endfor %}
+    <ul>
+      <li><a href="/">home</a></li>
+      {% for link in site.links %}<li><a href="{{ link.url }}">{{ link.title }}</a></li>{% endfor %}
+    </ul>
   </nav>
+  <hr>
 </header>
