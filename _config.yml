@@ -43,9 +43,43 @@ projects:
     url: https://github.com/sprusr/vpncmd.js
   - title: Don't Laugh
     description: >
-      A really stupid, and yet incredible hackathon project in the form of a game. A camera and elastic band shooting robot move back and forth - if you laugh or even smile, you get shot!
+      A really stupid, and yet incredible hackathon project in the form of a
+      game. A camera and elastic band shooting robot move back and forth - if
+      you laugh or even smile, you get shot!
     image: /img/dontlaugh.png
     url: https://devpost.com/software/don-t-laugh
+  - title: trel
+    description: >
+      After a combination of starting to use Trello a lot at work, and begining
+      to want to switch my toolset to the terminal, I made a cute little command
+      line client for Trello, written in javascript.
+    image: /img/trel.png
+    url: https://github.com/sprusr/trel
+hackathons:
+  - title: Local Hack Day II
+  - title: BrumHack III
+  - title: AstonHack 2015
+  - title: GreatUniHack 2015
+  - title: HackKings 2.0
+  - title: HackCambridge
+  - title: BanterHack
+  - title: Hack@Brookes
+  - title: HackUPC Spring 2016
+  - title: HackLondon
+  - title: StudentHack IV
+  - title: BrumHack 4
+  - title: HackSussex
+  - title: AnvilHack
+  - title: MLH Prime
+  - title: HackUPC Fall 2016
+  - title: HackSheffield
+  - title: Hackference
+  - title: BrumHack 5
+  - title: AstonHack 2016
+  - title: GreatUniHack 2016
+  - title: OxfordHack
+  - title: Junction 2016
+  - title: Local Hack Day III
 
 # Build settings
 markdown: kramdown

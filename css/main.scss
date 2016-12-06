@@ -43,6 +43,22 @@ hr {
   border-color: $line-color;
 }
 
+code {
+  background-color: #eee;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 1px;
+  font-size: 0.8rem;
+
+  a {
+    color: inherit;
+
+    &:hover {
+      color: inherit;
+    }
+  }
+}
+
 .container {
   width: 100%;
   max-width: 800px;
@@ -108,6 +124,25 @@ header {
 
   h3 {
     margin: 0;
+  }
+}
+
+.hackathons {
+  padding: 0;
+  list-style: none;
+  font-style: italic;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  li {
+    &:not(:last-child) {
+      margin-right: 0.5rem;
+
+      &::after {
+        content: ',';
+      }
+    }
   }
 }
 
