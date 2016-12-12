@@ -80,6 +80,7 @@ hackathons:
   - title: OxfordHack
   - title: Junction 2016
   - title: Local Hack Day III
+  - title: Porticode
 
 # Build settings
 markdown: kramdown
