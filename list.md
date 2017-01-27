@@ -19,9 +19,10 @@ Groups of people who are doing good stuff.
 
 * [Free Software Foundation](http://www.fsf.org/) - campaigning for free software
 
-## Random
+## Tools
 
-Things that are worth knowing about the existance of.
+Handy things that are worth knowing about the existance of.
 
+* [Habitica](https://habitica.com/) - an RPG for your life, motivation to get tasks done
 * [Textsmili.es](http://textsmili.es/) - text face generator
 
