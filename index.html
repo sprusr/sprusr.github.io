@@ -10,6 +10,11 @@ layout: default
   hackathons and conferences, and be involved with some amazing groups of
   people!
 </p>
+<p>
+  If you're interested, I maintain a <a href="/list">list of links</a> to
+  interesting stuff. I also have a bitcoin address:
+  <code><a href="bitcoin:19pz3P4QtxFyfv4BtTW9C1qcJaXzGg96vz?amount=0.005">19pz3P4QtxFyfv4BtTW9C1qcJaXzGg96vz</a></code>.
+</p>
 <h2>Projects</h2>
 <ul class="projects">
   {% for project in site.projects %}
@@ -20,17 +25,23 @@ layout: default
   </li>
   {% endfor %}
 </ul>
-<p>I love working on open source, but finding the time is difficult. If you
-  fancy helping support me to do such things, please consider sending to my
-  bitcoin address: <code><a href="bitcoin:19pz3P4QtxFyfv4BtTW9C1qcJaXzGg96vz?amount=0.005">19pz3P4QtxFyfv4BtTW9C1qcJaXzGg96vz</a></code>.
-</p>
 <h2>Speaking</h2>
 <ul>
-  <li>Hackcon EU - <i>Inside the mind of a fresher</i> (<a href="https://drive.google.com/open?id=1Qr_jcpRnPklwT8k5fbx6CoVugHAFBX8HmdTkq21wj1w">slides</a>)</li>
+  <li>
+    Hackcon EU - <i>Inside the mind of a fresher</i>
+    (<a href="https://drive.google.com/open?id=1Qr_jcpRnPklwT8k5fbx6CoVugHAFBX8HmdTkq21wj1w">slides</a>)
+  </li>
 </ul>
-<p>I have talks drafted about various things, including overcommitment/burnout, collecting <em>things</em> and the beliefs of an esoteric magical cult. If any of these sound interesting, please get in touch.</p>
+<p>
+  I have talks drafted about various things, including overcommitment/burnout,
+  collecting <em>things</em> and the beliefs of an esoteric magical cult. If any
+  of these sound interesting, please get in touch.
+</p>
 <h2>Hackathons</h2>
-<p>I'm often asked how many hackathons I've attended. The count is currently at {{ site.hackathons | size }}, and the full list is below.</p>
+<p>
+  I'm often asked how many hackathons I've attended. The count is currently at
+  {{ site.hackathons | size }}, and the full list is below.
+</p>
 <ul class="hackathons">
   {% for hack in site.hackathons %}
   <li>{{ hack.title }}</li>
