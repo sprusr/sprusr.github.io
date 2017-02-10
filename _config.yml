@@ -2,8 +2,11 @@
 title: Scott Street - sprusr
 description: >
   Scott is a javascript wizard who loves the web 💫
+keywords: "Scott Street,sprusr,scottystreet,ThroneRoom,Hakke,Muki.js,AstonHack,Aston"
+author: "Scott Street"
 baseurl: ""
 url: "https://spru.sr"
+favicon: /img/favicon.ico
 
 # Content
 links:
