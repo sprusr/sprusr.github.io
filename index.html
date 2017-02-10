@@ -20,7 +20,7 @@ layout: default
   <li>
     <a href="{{ project.url }}"><img src="{{ project.image }}" alt=""></a>
     <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
-    <p>{{ project.description | markdownify }}</p>
+    {{ project.description | markdownify }}
   </li>
   {% endfor %}
 </ul>
@@ -39,7 +39,5 @@ layout: default
   {{ site.hackathons | size }}, and the full list is below.
 </p>
 <ul class="hackathons">
-  {% for hack in site.hackathons %}
-  <li>{{ hack.title }}</li>
-  {% endfor %}
+  {% for hack in site.hackathons %}<li>{{ hack.title }}</li>{% endfor %}
 </ul>
