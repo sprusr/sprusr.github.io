@@ -3,11 +3,15 @@ layout: default
 title: Blog
 permalink: /blog/
 ---
-<ul class="posts">
+<div class="posts">
   {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date | date: "%b %-d, %Y" }}</small></h2>
-      {{ post.excerpt }}
-    </li>
+    <article class="post">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.content }}
+      <div class="meta">
+        <p class="permalink"><a href="{{ post.url }}">[x]</a></p>
+        <p class="date">{{ post.date | date: "%b %-d, %Y" }}</p>
+      </div>
+    </article>
   {% endfor %}
-</ul>
+</div>

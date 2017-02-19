@@ -150,13 +150,41 @@ header {
   padding: 0;
   list-style: none;
 
-  li:not(:last-child) {
+  article:not(:last-child) {
     border-bottom: 1px dashed rgb(204, 204, 204);
     padding-bottom: 20px;
   }
+}
 
-  h2 small {
-    font-size: 1rem;
+.post {
+  img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+  }
+
+  img + em {
+    display: block;
+    text-align: center;
+    color: #555;
+    font-size: 0.8em;
+    margin-top: 1em;
+  }
+
+  .meta {
+    .permalink {
+      float: left;
+    }
+
+    .date {
+      float: right;
+    }
+
+    &::after {
+      display: block;
+      content: '';
+      clear: both;
+    }
   }
 }
 

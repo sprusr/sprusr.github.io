@@ -6,15 +6,16 @@ author: "Scott Street"
 baseurl: ""
 url: "https://spru.sr"
 favicon: /img/favicon.ico
+permalink: pretty
 
 # Content
 links:
+  - title: Blog
+    url: /blog
   - title: Twitter
     url: https://twitter.com/sprusr
   - title: GitHub
     url: https://github.com/sprusr
-  - title: Blog
-    url: /blog
   - title: Email
     url: mailto:scott@spru.sr
 projects:
