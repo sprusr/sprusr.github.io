@@ -9,13 +9,13 @@ favicon: /img/favicon.ico
 
 # Content
 links:
-  - title: twitter
+  - title: Twitter
     url: https://twitter.com/sprusr
-  - title: github
+  - title: GitHub
     url: https://github.com/sprusr
-  - title: blog
+  - title: Blog
     url: /blog
-  - title: email
+  - title: Email
     url: mailto:scott@spru.sr
 projects:
   - title: Muki.js
