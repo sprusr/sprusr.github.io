@@ -13,6 +13,7 @@ Articles and things worth reading.
 * [An Introduction to Unix](http://www.oliverelliott.org/article/computing/tut_unix/) - very in depth about all things Unix
 * [Intel 8080 Assembly Language Programming Manual](http://altairclone.com/downloads/manuals/8080%20Programmers%20Manual.pdf) - 8080 asm, used for Game Boy
 * [Fuzzy Notepad](https://eev.ee/blog/) - very interesting technical blog
+* [The TTY demystified](http://www.linusakesson.net/programming/tty/) - where TTYs come from and what they are (complicated)
 
 ## Organisations
 
