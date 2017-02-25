@@ -9,8 +9,6 @@ $link-color: rgb(193, 27, 156);
 body {
   font-family: Georgia, serif;
   font-size: 12pt;
-  -webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -27,6 +25,10 @@ h2 {
 
 h3 {
   font-size: 1.5rem;
+}
+
+h4 {
+  font-size: 1.2rem;
 }
 
 a {
