@@ -80,6 +80,7 @@ hackathons:
   - title: HackUPC Winter 2017
   - title: BullHacks
   - title: Hack24 2017
+  - title: HackCity
 
 # Build settings
 markdown: kramdown
