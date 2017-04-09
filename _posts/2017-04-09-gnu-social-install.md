@@ -22,7 +22,7 @@ I'm not trying to make the case for GNU social being any better than Mastodon, b
 
 You're going to need **a server** somewhere. I recommend [DigitalOcean](https://m.do.co/c/215284685fd9) (referral link 💕), especially if you're a student because GitHub offer free DO credit as part of their [Student Developer Pack](https://education.github.com/pack)! Ubuntu is my preferred server distro, but you can choose whichever you like - I used Ubuntu 16.04 for this post. Shared hosting should also work, as long as you have access to a database (but where's the fun in somebody else setting everything up for you?!).
 
-On said server you will need an installation of **PHP** (5.5+, works with 7), a **web server** (pick your own favourite, but mine's Apache 😁), and some kind of **database** (either MariaDB of MySQL - I went for MySQL because I already had it installed, but ran into some trouble later which I'll talk about).
+On said server you will need an installation of **PHP** (5.5+, works with 7), a **web server** (pick your own favourite, but mine's Apache 😁), and some kind of **database** (either MariaDB or MySQL - I went for MySQL because I already had it installed, but ran into some trouble later which I'll talk about).
 
 In addition to the base PHP package on Ubuntu, I also needed to install php-gd, which was as simple as `apt-get install php-gd` on Ubuntu with PHP 7. The [install docs](https://git.gnu.io/gnu/gnu-social/blob/master/INSTALL) mentioned a whole load of other PHP extensions, but my installation came with everything else I needed.
 
