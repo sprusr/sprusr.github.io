@@ -75,8 +75,12 @@ There are a whole load of [issues](https://git.gnu.io/gnu/gnu-social/issues) on 
 
 To ease the transition of content from Twitter to GNU social, I'd love to be able to have links to posts on GNU social auto tweeted. Hackathon project maybe?
 
+Something else which may be of interest is to "socialfy" your root domain. I'm hosting my instance on the `soc.spru.sr` subdomain, but I'd really quite like to be able to have `scott@spru.sr` rather than `scott@soc.spru.sr`. Not a problem! Using the *webfinger* standard, you can create a script which is queried by other instances when they look up your domain. They first check `/.well-known/host-meta` (a static XML file) for directions to where the webfinger is. The script then returns details pointing the requesting instance to your own instance.
+
+I haven't been bothered to set this up yet, mainly because my root domain is a static site, so I can't run a script to act as the webfinger. Hopefully I'll get something working soon, and come back here with an edit 🤓.
+
 ---
 
 I hope this helped you get to grips with GNU social. If you've managed to get set up, please let us know your new handle!
 
-If you want to chat GNU social, decentralisation or anything else, give me a shout! I'm scott@soc.spru.sr 👋 or if you're still feeling a bit too attached, you can reach me on Twitter at [@sprusr](https://twitter.com/sprusr) 😬
+If you want to chat GNU social, decentralisation or anything else, give me a shout! I'm `scott@soc.spru.sr` 👋 or if you're still feeling a bit too attached, you can reach me on Twitter at [@sprusr](https://twitter.com/sprusr) 😬
