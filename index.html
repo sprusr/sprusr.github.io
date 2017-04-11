@@ -20,6 +20,11 @@ layout: default
   </li>
   {% endfor %}
 </ul>
+<h2>Recent posts</h2>
+<ul>
+  {% for post in site.posts limit:3 %}<li><a href="{{ post.url }}">{{ post.title }}</a> - <em>{{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</em></li>{% endfor %}
+</ul>
+<p>Please take a look at some more posts on my <a href="/blog">blog</a>.</p>
 <h2>Speaking</h2>
 <ul>
     <li>Aston EAS Undergraduate Conference - <i>How Important is Privacy Online?</i> (<a href="https://spru.sr/talks/eas-ug-2017/">slides</a>, <a href="https://www.youtube.com/watch?v=yr86rLbp6Hk">video</a>)</li>
