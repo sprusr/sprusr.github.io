@@ -64,7 +64,7 @@ hackathons:
   - title: StudentHack IV
   - title: BrumHack 4
   - title: HackSussex
-  - title: AnvilHack
+  - title: AnvilHack II
   - title: MLH Prime
   - title: HackUPC Fall 2016
   - title: HackSheffield
@@ -81,6 +81,7 @@ hackathons:
   - title: BullHacks
   - title: Hack24 2017
   - title: HackCity
+  - title: AnvilHack III
 
 # Build settings
 markdown: kramdown
