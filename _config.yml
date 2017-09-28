@@ -82,6 +82,8 @@ hackathons:
   - title: Hack24 2017
   - title: HackCity
   - title: AnvilHack III
+  - title: UKGovHack 2017
+  - title: HackTheMidlands 2017
 
 # Build settings
 markdown: kramdown
