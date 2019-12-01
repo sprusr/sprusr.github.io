@@ -1,0 +1,16 @@
+# Site settings
+title: sprusr
+description: It's pronounced "Super User"
+header: >
+  _The personal site of_
+
+  # [sprusr](/)
+keywords: "sprusr"
+author: "sprusr"
+baseurl: ""
+url: "https://spru.sr"
+social_img: "/img/squaredesk.jpg"
+permalink: pretty
+
+# Build settings
+markdown: kramdown
