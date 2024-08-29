@@ -1,3 +1,8 @@
+---
+layout: default
+title: Parkki Privacy Policy
+permalink: /parkki-privacy
+---
 
 # Privacy Policy for Parkki
 
